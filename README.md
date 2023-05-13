@@ -1,6 +1,6 @@
 
 # Pattern Project
-Implemented 10 different types of Pattern Project:
+Implemented 10 different types of Pattern Project in a battle game:
   - Strategy
   - State
   - Observer
@@ -11,4 +11,4 @@ Implemented 10 different types of Pattern Project:
   - Singleton
   - Composite
   - Command
-  - MVC (Unification of all patterns above in the game)
+  - MVC (Unify all patterns above)
