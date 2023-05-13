@@ -7,7 +7,8 @@ Implemented 10 different types of Pattern Project:
   - Chain of Responsability
   - Decorator
   - Factory
+  - Abstract Factory
   - Singleton
   - Composite
   - Command
-  - MVC
+  - MVC (Unification of all patterns above in the game)
